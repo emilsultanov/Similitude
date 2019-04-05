@@ -1,0 +1,1 @@
+Bu proqram daxil edilen iki sözu müqayise edir ve bu sözlerin oxsarliq derecesini teyin edir.
